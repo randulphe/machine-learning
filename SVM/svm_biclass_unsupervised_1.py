@@ -16,6 +16,8 @@ for better implementation ->
         gamma must be find empirically
     
     see 2nd tuto for more complete precision metrics
+    
+    save trained model on the disk
 """
 
 
